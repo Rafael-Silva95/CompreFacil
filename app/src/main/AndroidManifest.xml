@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.edu.unisep.comprefacil" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".activity.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.NovaListaActivity"
+            android:label="@string/abc_action_bar_home_description" >
+        </activity>
+        <activity
+            android:name=".activity.ListViewSearchExample"
+            android:label="@string/abc_action_bar_home_description" >
+        </activity>
+        <activity
+            android:name=".group_heading"
+            android:label="@string/title_activity_group_heading" >
+        </activity>
+        <activity
+            android:name=".child_row"
+            android:label="@string/title_activity_child_row" >
+        </activity>
+    </application>
+
+</manifest>

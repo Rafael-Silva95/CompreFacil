@@ -1,0 +1,510 @@
+{
+    "mercado": [
+        {
+            "id": "1",
+            "nome": "Mercado do Tio João",
+            "produtos": [
+                {
+                    "id": "1",
+                    "nome": "Arroz",
+                    "preco": "5.78",
+                    "unidade": "kg",
+                    "qtde": "5"
+                },
+                {
+                    "id": "2",
+                    "nome": "Feijão",
+                    "preco": "7.34",
+                    "unidade": "kg",
+                    "qtde": "3"
+                },
+                {
+                    "id": "3",
+                    "nome": "Leite",
+                    "preco": "2.14",
+                    "unidade": "l",
+                    "qtde": "10"
+                },
+                {
+                    "id": "4",
+                    "nome": "Extrato de Tomate",
+                    "preco": "3.75",
+                    "unidade": "lata 200g",
+                    "qtde": "12"
+                },
+                {
+                    "id": "5",
+                    "nome": "Macarão",
+                    "preco": "4.65",
+                    "unidade": "kg",
+                    "qtde": "6"
+                },
+                {
+                    "id": "6",
+                    "nome": "Açúcar",
+                    "preco": "8.35",
+                    "unidade": "kg",
+                    "qtde": "5"
+                },
+                {
+                    "id": "7",
+                    "nome": "Refrigerante cola",
+                    "preco": "6.90",
+                    "unidade": "l",
+                    "qtde": "8"
+                },
+                {
+                    "id": "8",
+                    "nome": "Cerveja",
+                    "preco": "3.85",
+                    "unidade": "kg",
+                    "qtde": "9"
+                },
+                {
+                    "id": "9",
+                    "nome": "Carne",
+                    "preco": "16.45",
+                    "unidade": "kg",
+                    "qtde": "15"
+                },
+                {
+                    "id": "10",
+                    "nome": "Alface",
+                    "preco": "2.65",
+                    "unidade": "kg",
+                    "qtde": "7"
+                },
+                {
+                    "id": "11",
+                    "nome": "Pão",
+                    "preco": "0.90",
+                    "unidade": "kg",
+                    "qtde": "20"
+                },
+                {
+                    "id": "12",
+                    "nome": "Sal",
+                    "preco": "2.28",
+                    "unidade": "kg",
+                    "qtde": "17"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "nome": "Mercado Zé Fredo",
+            "produtos": [
+                {
+                    "id": "1",
+                    "nome": "Arroz",
+                    "preco": "5.60",
+                    "unidade": "kg",
+                    "qtde": "7"
+                },
+                {
+                    "id": "2",
+                    "nome": "Feijão",
+                    "preco": "6.75",
+                    "unidade": "kg",
+                    "qtde": "7"
+                },
+                {
+                    "id": "3",
+                    "nome": "Leite",
+                    "preco": "2.90",
+                    "unidade": "l",
+                    "qtde": "12"
+                },
+                {
+                    "id": "4",
+                    "nome": "Extrato de Tomate",
+                    "preco": "2.45",
+                    "unidade": "lata 200g",
+                    "qtde": "10"
+                },
+                {
+                    "id": "5",
+                    "nome": "Macarão",
+                    "preco": "5.25",
+                    "unidade": "kg",
+                    "qtde": "8"
+                },
+                {
+                    "id": "6",
+                    "nome": "Açúcar",
+                    "preco": "8.90",
+                    "unidade": "kg",
+                    "qtde": "6"
+                },
+                {
+                    "id": "7",
+                    "nome": "Refrigerante cola",
+                    "preco": "6.70",
+                    "unidade": "l",
+                    "qtde": "9"
+                },
+                {
+                    "id": "8",
+                    "nome": "Cerveja",
+                    "preco": "3.65",
+                    "unidade": "kg",
+                    "qtde": "10"
+                },
+                {
+                    "id": "9",
+                    "nome": "Carne",
+                    "preco": "17.25",
+                    "unidade": "kg",
+                    "qtde": "17"
+                },
+                {
+                    "id": "10",
+                    "nome": "Alface",
+                    "preco": "2.86",
+                    "unidade": "kg",
+                    "qtde": "9"
+                },
+                {
+                    "id": "11",
+                    "nome": "Pão",
+                    "preco": "0.85",
+                    "unidade": "kg",
+                    "qtde": "25"
+                },
+                {
+                    "id": "12",
+                    "nome": "Sal",
+                    "preco": "2.38",
+                    "unidade": "kg",
+                    "qtde": "19"
+                },
+                {
+                    "id": "13",
+                    "nome": "Erva Mate",
+                    "preco": "10.45",
+                    "unidade": "kg",
+                    "qtde": "20"
+                },
+                {
+                    "id": "14",
+                    "nome": "Repolho",
+                    "preco": "2.30",
+                    "unidade": "kg",
+                    "qtde": "16"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "nome": "Mercado do Gondola",
+            "produtos": [
+                {
+                    "id": "1",
+                    "nome": "Arroz",
+                    "preco": "5.55",
+                    "unidade": "kg",
+                    "qtde": "9"
+                },
+                {
+                    "id": "2",
+                    "nome": "Feijão",
+                    "preco": "6.35",
+                    "unidade": "kg",
+                    "qtde": "12"
+                },
+                {
+                    "id": "3",
+                    "nome": "Leite",
+                    "preco": "2.69",
+                    "unidade": "l",
+                    "qtde": "10"
+                },
+                {
+                    "id": "4",
+                    "nome": "Extrato de Tomate",
+                    "preco": "2.45",
+                    "unidade": "lata 200g",
+                    "qtde": "11"
+                },
+                {
+                    "id": "5",
+                    "nome": "Macarão",
+                    "preco": "5.73",
+                    "unidade": "kg",
+                    "qtde": "12"
+                },
+                {
+                    "id": "6",
+                    "nome": "Açúcar",
+                    "preco": "8.56",
+                    "unidade": "kg",
+                    "qtde": "9"
+                },
+                {
+                    "id": "7",
+                    "nome": "Refrigerante cola",
+                    "preco": "6.77",
+                    "unidade": "l",
+                    "qtde": "11"
+                },
+                {
+                    "id": "8",
+                    "nome": "Cerveja",
+                    "preco": "3.35",
+                    "unidade": "kg",
+                    "qtde": "12"
+                },
+                {
+                    "id": "9",
+                    "nome": "Carne",
+                    "preco": "17.56",
+                    "unidade": "kg",
+                    "qtde": "18"
+                },
+                {
+                    "id": "10",
+                    "nome": "Alface",
+                    "preco": "2.87",
+                    "unidade": "kg",
+                    "qtde": "13"
+                },
+                {
+                    "id": "11",
+                    "nome": "Pão",
+                    "preco": "0.79",
+                    "unidade": "kg",
+                    "qtde": "23"
+                },
+                {
+                    "id": "12",
+                    "nome": "Sal",
+                    "preco": "2.29",
+                    "unidade": "kg",
+                    "qtde": "17"
+                },
+                {
+                    "id": "13",
+                    "nome": "Erva Mate",
+                    "preco": "10.35",
+                    "unidade": "kg",
+                    "qtde": "19"
+                },
+                {
+                    "id": "14",
+                    "nome": "Repolho",
+                    "preco": "2.27",
+                    "unidade": "kg",
+                    "qtde": "17"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "nome": "Mercado Zezinho",
+            "produtos": [
+                {
+                    "id": "1",
+                    "nome": "Arroz",
+                    "preco": "5.40",
+                    "unidade": "kg",
+                    "qtde": "8"
+                },
+                {
+                    "id": "2",
+                    "nome": "Feijão",
+                    "preco": "6.25",
+                    "unidade": "kg",
+                    "qtde": "11"
+                },
+                {
+                    "id": "3",
+                    "nome": "Leite",
+                    "preco": "2.75",
+                    "unidade": "l",
+                    "qtde": "9"
+                },
+                {
+                    "id": "4",
+                    "nome": "Extrato de Tomate",
+                    "preco": "2.35",
+                    "unidade": "lata 200g",
+                    "qtde": "13"
+                },
+                {
+                    "id": "5",
+                    "nome": "Macarão",
+                    "preco": "5.65",
+                    "unidade": "kg",
+                    "qtde": "9"
+                },
+                {
+                    "id": "6",
+                    "nome": "Açúcar",
+                    "preco": "8.65",
+                    "unidade": "kg",
+                    "qtde": "8"
+                },
+                {
+                    "id": "7",
+                    "nome": "Refrigerante cola",
+                    "preco": "6.95",
+                    "unidade": "l",
+                    "qtde": "10"
+                },
+                {
+                    "id": "8",
+                    "nome": "Cerveja",
+                    "preco": "3.55",
+                    "unidade": "kg",
+                    "qtde": "13"
+                },
+                {
+                    "id": "9",
+                    "nome": "Carne",
+                    "preco": "17.70",
+                    "unidade": "kg",
+                    "qtde": "16"
+                },
+                {
+                    "id": "10",
+                    "nome": "Alface",
+                    "preco": "2.98",
+                    "unidade": "kg",
+                    "qtde": "12"
+                },
+                {
+                    "id": "11",
+                    "nome": "Pão",
+                    "preco": "0.85",
+                    "unidade": "kg",
+                    "qtde": "25"
+                },
+                {
+                    "id": "12",
+                    "nome": "Sal",
+                    "preco": "2.38",
+                    "unidade": "kg",
+                    "qtde": "19"
+                },
+                {
+                    "id": "13",
+                    "nome": "Erva Mate",
+                    "preco": "10.45",
+                    "unidade": "kg",
+                    "qtde": "20"
+                },
+                {
+                    "id": "14",
+                    "nome": "Repolho",
+                    "preco": "2.30",
+                    "unidade": "kg",
+                    "qtde": "16"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "nome": "Supermercado do Pequeno",
+            "produtos": [
+                {
+                    "id": "1",
+                    "nome": "Arroz",
+                    "preco": "5.75",
+                    "unidade": "kg",
+                    "qtde": "9"
+                },
+                {
+                    "id": "2",
+                    "nome": "Feijão",
+                    "preco": "6.37",
+                    "unidade": "kg",
+                    "qtde": "19"
+                },
+                {
+                    "id": "3",
+                    "nome": "Leite",
+                    "preco": "2.67",
+                    "unidade": "l",
+                    "qtde": "11"
+                },
+                {
+                    "id": "4",
+                    "nome": "Extrato de Tomate",
+                    "preco": "2.43",
+                    "unidade": "lata 200g",
+                    "qtde": "14"
+                },
+                {
+                    "id": "5",
+                    "nome": "Macarão",
+                    "preco": "5.73",
+                    "unidade": "kg",
+                    "qtde": "8"
+                },
+                {
+                    "id": "6",
+                    "nome": "Açúcar",
+                    "preco": "8.56",
+                    "unidade": "kg",
+                    "qtde": "9"
+                },
+                {
+                    "id": "7",
+                    "nome": "Refrigerante cola",
+                    "preco": "6.77",
+                    "unidade": "l",
+                    "qtde": "11"
+                },
+                {
+                    "id": "8",
+                    "nome": "Cerveja",
+                    "preco": "3.46",
+                    "unidade": "kg",
+                    "qtde": "12"
+                },
+                {
+                    "id": "9",
+                    "nome": "Carne",
+                    "preco": "17.20",
+                    "unidade": "kg",
+                    "qtde": "19"
+                },
+                {
+                    "id": "10",
+                    "nome": "Alface",
+                    "preco": "2.85",
+                    "unidade": "kg",
+                    "qtde": "14"
+                },
+                {
+                    "id": "11",
+                    "nome": "Pão",
+                    "preco": "0.80",
+                    "unidade": "kg",
+                    "qtde": "22"
+                },
+                {
+                    "id": "12",
+                    "nome": "Sal",
+                    "preco": "2.43",
+                    "unidade": "kg",
+                    "qtde": "17"
+                },
+                {
+                    "id": "13",
+                    "nome": "Erva Mate",
+                    "preco": "10.48",
+                    "unidade": "kg",
+                    "qtde": "18"
+                },
+                {
+                    "id": "14",
+                    "nome": "Repolho",
+                    "preco": "2.25",
+                    "unidade": "kg",
+                    "qtde": "18"
+                }
+            ]
+        }
+    ]
+}
